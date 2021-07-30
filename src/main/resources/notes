@@ -1,0 +1,2 @@
+netstat -ao |find /i "<port>"
+Taskkill /F /IM <number>
